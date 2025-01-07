@@ -1,0 +1,6 @@
+LDA vara
+ADD varb
+OUT
+HLT
+vara db 2
+varb db 5

@@ -1,5 +1,7 @@
 # SAP-X Compiler
 
+![Compiling](media/transform.png)
+
 This is a **SAP-X compiler** written in Rust, designed to compile assembly code for the **SAP-X** architecture. The SAP-X architecture is a simplified X-bit (8 per default) computer model designed by Ben Eater for educational purposes. This compiler allows you to compile assembly programs for this architecture, converting them into binary machine code.
 
 ## SAP-X Assembly Language
